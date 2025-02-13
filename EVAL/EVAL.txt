@@ -1,0 +1,19 @@
+Lab 1	9 Good try. Your solution prints empty lines if one file is longer than the other. -Jason
+Lab 2	9 Good try. Word count is bit off with provided file1.txt and solution outputs. Order of word occurrences should be reversed.  -Jason
+Lab 3	10 Excellent job. -Jason
+Lab 4	9 Good try. The part 1 and part 2 outputs are slightly different. Something is off. -Jason
+Lab 5	10 Excellent job. -Jason
+Lab 6	10 Code Review: Good job -Jason 
+Lab 7	9 Should only use find function once in insert function -Jason
+Lab 8	9 I said no and it rolled again. Its good practice to declare class in header file  for example logger. -Jason
+Lab 9	10 Good job. -Jason
+Lab 10	8 Square code should ask user for size. Process should be defined in hpp. - Jason
+Lab 11	10 Good job. Thanks. -Jason
+Lab 12	8 Good try. Part 1 does not return middle names. -Jason
+Lab 13	7 Who is requesting landing?? Good job part 2. -Jason
+Quiz 1	10
+Quiz 2	8
+Quiz 3	9
+Quiz 4	9
+Midterm	97
+Final Exam 90
